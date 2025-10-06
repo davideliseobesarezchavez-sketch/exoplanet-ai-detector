@@ -1,0 +1,1 @@
+C:/Users/David/AppData/Local/Programs/Python/Python311/python.exe -m streamlit run webapp/app.py
