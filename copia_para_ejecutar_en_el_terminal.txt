@@ -1,1 +1,3 @@
+# este cuando copeas ejecuta en 'webapp/app.py'
+# solo cambia este segun tu pc su C C:/Users/David
 C:/Users/David/AppData/Local/Programs/Python/Python311/python.exe -m streamlit run webapp/app.py
